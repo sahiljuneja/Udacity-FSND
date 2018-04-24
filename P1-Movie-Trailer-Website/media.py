@@ -1,4 +1,4 @@
-Class Movie():
+class Movie:
 	""" docstring """
 	def __init__(self, movie_title, movie_description, movie_poster_url, movie_video_url):
 		self.movie_title = movie_title
