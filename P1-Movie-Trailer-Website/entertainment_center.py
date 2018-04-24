@@ -29,7 +29,7 @@ inside_out = media.Movie("Inside Out",
                          "important emotion) Joy, start to disagree on "
                          "how to deal with this dramatic change, which "
                          "causes problems up in Headquaters, the central "
-                         "living and working place for the five emotions",
+                         "living and working place for the five emotions.",
                          "https://upload.wikimedia.org/wikipedia/en/0/0a/"
                          "Inside_Out_%282015_film%29_poster.jpg",
                          "https://www.youtube.com/watch?v=yRUAzGQ3nSY")
@@ -45,7 +45,7 @@ megamind = media.Movie("Megamind",
                        " is no one left to fight. He creates a new foe, "
                        "Tighten, who, instead of using his powers for "
                        "good, sets out to destroy the world, positioning "
-                       "Megamind to save the day for the first time in"
+                       "Megamind to save the day for the first time in "
                        "his life.",
                        "https://upload.wikimedia.org/wikipedia/en/8/89/"
                        "Megamind2010Poster.jpg",
