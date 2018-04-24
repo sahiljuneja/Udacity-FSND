@@ -12,8 +12,12 @@ For Windows users, download and install [Anaconda](https://www.anaconda.com/), a
 
 How to Run Project
 ------------------
+- Download or clone the repo.
+- Open Anaconda Prompt (on Windows), and activate previously created environment - `activate env_name`
 - Navigate to project folder, in Anaconda Prompt.
 - Run `python entertainment_center.py`
+
+This will create the required HTML file.
 
 
 Extra Credit Description
