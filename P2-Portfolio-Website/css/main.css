@@ -145,3 +145,28 @@ footer a {
   font-style: normal;  
   text-decoration: underline;
 }
+
+
+/*
+ *
+ * Breakpoints
+ *
+ */
+
+
+ /* First Breakpoint*/
+@media screen and (max-width: 640px) {
+  .project  {
+    width: 100%;
+  }
+
+
+}
+
+/* Second Breakpoint*/
+@media screen and (min-width: 641px) and (max-width: 939px) {
+  .project  {
+    width: 50%;
+  }
+
+}
